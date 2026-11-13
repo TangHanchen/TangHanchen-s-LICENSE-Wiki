@@ -1,6 +1,9 @@
 # TangHanchen 's LICENSE Wiki
-> CAUTION ⚠
+> CAUTION
 > 
 > DONT SEE THE LICENSE FILE!!!
+
+> NOTICE
+> IM NOT GAY AND THE DEAD!!!
 
 TangHanchen's LICENSE Wiki
