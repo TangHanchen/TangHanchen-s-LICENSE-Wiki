@@ -21,5 +21,11 @@ Can I use they in my project?
 Why do they have offensive words?
 > I did it on purpose. By the way, you might already be gay now.
 
+Why are you writing them?
+> Inspired by the WTFPL, I then messed around and made this Thunder thing.
+
 ## License
 WSIIGPL and WSIIMFPL.
+
+## Others
+Fun fact: The entire README was machine-translated by me, whether you can understand it or not is up to you.
