@@ -14,5 +14,9 @@ TangHanchen's LICENSE Wiki
 ## How to use
 Change the license owner and year to create a license copy that's all yours.
 
+## FAQ
+Can I use them in my project?
+> Emm, they are only for joke. If you want to show off, you might as well use WTFPL (DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE—yes, there really is such a badass license).
+
 ## License
 WSIIGPL and WSIIMFPL.
