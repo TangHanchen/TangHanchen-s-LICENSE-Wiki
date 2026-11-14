@@ -1,4 +1,4 @@
-# TangHanchen 's LICENSE Wiki
+# Magicl License
 > ## CAUTION
 > 
 >> DONT SEE THE LICENSE FILE!!!
@@ -8,8 +8,6 @@
 > ## NOTICE
 > 
 >> IM NOT GAY AND THE MOTHERFUCKER!!!
-
-TangHanchen's LICENSE Wiki
 
 ## How to use
 Change the license owner and year to create a license copy that's all yours.
