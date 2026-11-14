@@ -4,6 +4,8 @@
 >> DONT SEE THE LICENSE FILE!!!
 > 
 >> THIS REPOSITORY IS ONLY FOR JOKE!!!
+>
+>> I TAKE NO RESPONSIBILITY FOR YOU BECOMING GAY/MOTHERFUCKER!!!
 
 > ## NOTICE
 > 
@@ -17,7 +19,7 @@ Can I use they in my project?
 > Emm, they are only for joke. If you want to show off, you might as well use WTFPL (DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE—yes, there really is such a badass license).
 
 Why do they have offensive words?
-> I did it on purpose. By the way, you might already be gay now.
+> I did it on purpose. By the way, you might already be GAY/MOTHERFUCKER now.
 
 Why are you writing them?
 > Inspired by the WTFPL, I then messed around and made this Thunder thing.
